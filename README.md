@@ -1,5 +1,3 @@
-# research-notes
-Research notes on learning systems and knowledge structure  Exploratory notes on adaptive learning and memory organization
 # Research Notes on Adaptive Learning and Knowledge Structure
 
 ## Context

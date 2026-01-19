@@ -26,8 +26,8 @@ At a conceptual level, this includes:
 - Inferring weak points from observable performance signals
 - Adjusting practice emphasis based on dependency paths and mastery confidence
 
-The emphasis here is on **how such a system could be reasoned about**, not on
-specific algorithms, implementations, or platforms.
+The emphasis here is on how such a system could be reasoned about, rather than
+on specific algorithms, implementations, or platforms.
 
 ---
 
@@ -58,9 +58,14 @@ associated with this work at present.
 
 ---
 
+## Keywords
+
+adaptive learning, spaced practice, knowledge structure, mastery estimation
+
+---
+
 ## Contact
 
-For technical discussion or early-stage collaboration around the ideas
-described here:
+For technical discussion or clarification only:
 
 **Research-notes-07@proton.me**
